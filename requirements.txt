@@ -1,0 +1,8 @@
+langchain-groq
+langchain-ollama
+langchain-core
+streamlit
+python-dotenv
+langchain
+langchain-community
+pdfplumber
